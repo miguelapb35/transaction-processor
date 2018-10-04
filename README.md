@@ -9,7 +9,7 @@ Parse a csv file and calculate the commission of each transaction where each lin
 PHP: >=7.2 <=7.3  
 Composer installed locally
 
-###Deployment & Run
+### Deployment & Run
 1. Download the application locally, enter in project root and run `composer install` to install dependencies.
 2. run the command: `php run-cli.php input.csv` to start the application. You can replace the argument `input.csv`  
 with another file name you want to use (must be in CSV format following the specs in the task description). 
