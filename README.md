@@ -3,6 +3,7 @@
 
 ## The task  
 Parse a csv file and calculate the commission of each transaction where each line is a separate transaction.  
+Please see the full requirements in the [wiki page]([https://github.com/veniva/transaction-processor/wiki/Requirements)
 
 ## Installation instructions
 ### Runtime requirements

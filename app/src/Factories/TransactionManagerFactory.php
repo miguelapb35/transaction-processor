@@ -9,7 +9,7 @@ use App\Promotion\CommissionCalculator as PromoCommissionCalculator;
 use App\Promotion\TransactionManager as PromoTransactionManager;
 
 /**
- * Creates a TransactionManager class of different types
+ * Creates a TransactionManager class of various types
  */
 class TransactionManagerFactory
 {
